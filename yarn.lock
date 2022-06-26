@@ -7644,6 +7644,7 @@ bem-tools-create@bem-tools/bem-tools-create:
     lint-staged: ^12.3.5
     postcss: ^8.4.8
     postcss-scss: ^4.0.3
+    remixicon: ^2.5.0
     require-dir: ^1.2.0
     sass: ^1.49.9
     scrollreveal: ^4.0.9
@@ -12492,6 +12493,13 @@ bem-tools-create@bem-tools/bem-tools-create:
   version: 0.3.0
   resolution: "rematrix@npm:0.3.0"
   checksum: f3e8dc254e10f8cd950d0b7d6677b042644428be4ab8a940ecaf7237fbd33fc6d1e1af79fa4b6b073fe71d1e91b8df48b67d39cb0cf5a7cc1d39ee318cad5e42
+  languageName: node
+  linkType: hard
+
+"remixicon@npm:^2.5.0":
+  version: 2.5.0
+  resolution: "remixicon@npm:2.5.0"
+  checksum: 7fa8f3643e3f24d7fa1cdbf37391bb4b3bfc0fda6643ba4e09e92fb8639351cee03f51539f18640747c2055e3622c8b81369f323857793ffbe7d2292cbac60c6
   languageName: node
   linkType: hard
 
